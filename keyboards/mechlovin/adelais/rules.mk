@@ -21,4 +21,4 @@ FAUXCLICKY_ENABLE = no      # Use buzzer to emulate clicky switches
 
 LAYOUTS = alice alice_split_bs
 
-DEFAULT_FOLDER = mechlovin/adelais/standard_led/rev2
+DEFAULT_FOLDER = mechlovin/adelais/standard_led/rev3
