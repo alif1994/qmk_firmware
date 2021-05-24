@@ -41,6 +41,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define BACKLIGHT_BREATHING
 #define BACKLIGHT_LEVELS 3
 
+#define TAPPING_TOGGLE 2
+#define USB_POLLING_INTERVAL_MS 2
+#define QMK_KEYS_PER_SCAN 8
+
 // leaving this here if I decide to add RGB down the line
 
 // #define RGB_DI_PIN E2
